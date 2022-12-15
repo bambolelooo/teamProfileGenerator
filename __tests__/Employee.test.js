@@ -20,6 +20,10 @@ describe("Employee methods", () => {
         expect(employee.getId()).toBe(employee.id);
         expect(employee.getId()).toBe("id");
     });
+    it("should have a getEmail method that returns id", () => {
+        expect(employee.getEmail()).toBe(employee.email);
+        expect(employee.getEmail()).toBe("email");
+    });
     it("should have a getRole method that returns role", () => {
         expect(employee.getRole()).toBe(employee.role);
         expect(employee.getRole()).toBe("Employee");
