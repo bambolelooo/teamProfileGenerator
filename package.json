@@ -1,23 +1,29 @@
 {
-  "name": "teamprofilegenerator",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib",
-    "test": "tests"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bambolelooo/teamProfileGenerator.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bambolelooo/teamProfileGenerator/issues"
-  },
-  "homepage": "https://github.com/bambolelooo/teamProfileGenerator#readme"
+    "name": "teamprofilegenerator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib",
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bambolelooo/teamProfileGenerator.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bambolelooo/teamProfileGenerator/issues"
+    },
+    "homepage": "https://github.com/bambolelooo/teamProfileGenerator#readme",
+    "dependencies": {
+        "inquirer": "^9.1.4"
+    },
+    "devDependencies": {
+        "jest": "^29.3.1"
+    }
 }
