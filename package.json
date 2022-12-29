@@ -21,10 +21,10 @@
         "url": "https://github.com/bambolelooo/teamProfileGenerator/issues"
     },
     "homepage": "https://github.com/bambolelooo/teamProfileGenerator#readme",
-    "dependencies": {
-        "inquirer": "^9.1.4"
-    },
     "devDependencies": {
         "jest": "^29.3.1"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.4"
     }
 }
