@@ -132,6 +132,8 @@
    npm run start
    ```
 2. Follow the prompts
+For more detailed instructions see usage video
+https://drive.google.com/file/d/1Aq1HmfWvVBMedNyQ76W5yUCKDWxko3jS/view
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
