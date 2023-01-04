@@ -119,7 +119,7 @@
     ```
 2. Follow the prompts
    For more detailed instructions see usage video
-   https://drive.google.com/file/d/1Aq1HmfWvVBMedNyQ76W5yUCKDWxko3jS/view
+   https://drive.google.com/file/d/1qS3E626R2L_Y6j7rMOjuNnHkDgagKKxd/view
 
 3. After finishing look for your html file in ./dist folder
 
